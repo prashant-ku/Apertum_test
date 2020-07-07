@@ -1,0 +1,14 @@
+{
+  "name": "@component/component-user-card",
+  "version": "0.0.0",
+  "license": "UNLICENSED",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "react-scripts build",
+    "watch": "rollup -c -w"
+  },
+  "browserslist": [
+    "> 0.25%",
+    "ie 10"
+  ]
+}
